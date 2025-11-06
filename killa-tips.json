@@ -1,1 +1,32 @@
-
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+  "tips": [
+    {
+      "match": "Beijing Guoan 🆚 Tai Po FC",
+      "league": "Int. Clubs – AFC Champions League Two",
+      "tip": "Home or Away",
+      "odds": 1.18,
+      "time": "12:15",
+      "status": "Pending",
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "BG Pathum Utd 🆚 Kaya FC lloilo",
+      "league": "Int. Clubs – UEFA Champions League",
+      "tip": "Handicap 0:4",
+      "odds": 1.25,
+      "time": "12:15",
+      "status": "pending",
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Esperance Sportive  🆚 JS Omrane",
+      "league": "Tunisia – Ligue 1",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.25,
+      "time": "13:30",
+      "status": "pending",
+      "createdAt": "2024-01-15T11:30:00Z"
+    }
+  ]
+}

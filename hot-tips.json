@@ -7,7 +7,7 @@
       "tip": "Home or Away",
       "odds": 1.18,
       "time": "12:15",
-      "status": "Pending",
+      "status": "won",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "tip": "Handicap 0:4",
       "odds": 1.25,
       "time": "12:15",
-      "status": "pending",
+      "status": "won",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "tip": "Over 1.5 Goals",
       "odds": 1.25,
       "time": "13:30",
-      "status": "pending",
+      "status": "won",
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]

@@ -1,34 +1,53 @@
 {
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
-    {
-      "match": "Beijing Guoan 🆚 Tai Po FC",
-      "league": "Int. Clubs – AFC Champions League Two",
-      "tip": "Home or Away",
-      "odds": 1.18,
-      "time": "12:15",
-      "status": "Pending",
-      "createdAt": "2024-01-15T10:00:00Z"
-    },
-    {
-      "match": "BG Pathum Utd 🆚 Kaya FC lloilo",
-      "league": "Int. Clubs – UEFA Champions League",
-      "tip": "Handicap 0:4",
-      "odds": 1.25,
-      "time": "12:15",
-      "status": "pending",
-      "createdAt": "2024-01-14T09:15:00Z"
-    },
-    {
-      "match": "Esperance Sportive  🆚 JS Omrane",
-      "league": "Tunisia – Ligue 1",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.25,
-      "time": "13:30",
-      "status": "pending",
-      "createdAt": "2024-01-15T11:30:00Z"
-    }
-  ],
+  {
+    "match": "Aston Villa 🆚 Bournemouth",
+    "league": "Premier League",
+    "tip": "BTTS-YES",
+    "odds": 1.71,
+    "time": "14:00",
+    "status": "pending",
+    "createdAt": "2025-11-09T14:00:00Z"
+  },
+  {
+    "match": "Brentford 🆚 Newcastle United",
+    "league": "Premier League",
+    "tip": "BTTS",
+    "odds": 1.64,
+    "time": "14:00",
+    "status": "pending",
+    "createdAt": "2025-11-09T14:00:00Z"
+  },
+  {
+    "match": "Crystal Palace 🆚 Brighton & Hove Albion",
+    "league": "Premier League",
+    "tip": "OVER 1.5",
+    "odds": 1.27,
+    "time": "14:00",
+    "status": "pending",
+    "createdAt": "2025-11-09T14:00:00Z"
+  },
+  {
+    "match": "Nottingham Forest 🆚 Leeds United",
+    "league": "Premier League",
+    "tip": "BTTS",
+    "odds": 2.05,
+    "time": "14:00",
+    "status": "pending",
+    "createdAt": "2025-11-09T14:00:00Z"
+  },
+  {
+    "match": "Manchester City 🆚 Liverpool",
+    "league": "Premier League",
+    "tip": "Liverpool Over 1.5",
+    "odds": 2.35,
+    "time": "16:30",
+    "status": "pending",
+    "createdAt": "2025-11-09T16:30:00Z"
+  }
+]
+
  "TOTAL_ODDS": "56.5",
  "MESSAGE": "FLEX ABOUT 10 GAMES FOR MAXIMUM PROFIT"
 }
